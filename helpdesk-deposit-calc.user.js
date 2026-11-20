@@ -7,6 +7,8 @@
 // @match        https://app.helpdesk.com/*
 // @match        *://*.boadmin.org/*
 // @match        *://boadmin.org/*
+// @updateURL    https://github.com/TsukuyomiTim/Deposit-calculator/raw/refs/heads/main/helpdesk-deposit-calc.user.js
+// @downloadURL  https://github.com/TsukuyomiTim/Deposit-calculator/raw/refs/heads/main/helpdesk-deposit-calc.user.js
 // @grant        none
 // @run-at       document-idle
 // ==/UserScript==
@@ -371,3 +373,4 @@
         init();
     }
 })();
+
